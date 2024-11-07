@@ -1,14 +1,14 @@
 #!/bin/bash
 
 # Build Configuration. Required variables to compile the ROM.
-CONFIG_LUNCH=""
+CONFIG_LUNCH="pixelage_sky-ap3a-user"
 CONFIG_OFFICIAL_FLAG=""
-CONFIG_TARGET="bacon"
+CONFIG_TARGET="make bacon"
 
 # Telegram Configuration
-CONFIG_CHATID="-"
-CONFIG_BOT_TOKEN=""
-CONFIG_ERROR_CHATID=""
+CONFIG_CHATID="-1002224924128"
+CONFIG_BOT_TOKEN="7919998974:AAFYLe-1vqRWiq19crJxNHI3IJvmrUTFzX4"
+CONFIG_ERROR_CHATID="-1002420700748"
 
 # PixelDrain api keys to upload builds
 CONFIG_PDUP_API=""
