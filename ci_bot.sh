@@ -11,7 +11,7 @@ CONFIG_BOT_TOKEN="7919998974:AAFYLe-1vqRWiq19crJxNHI3IJvmrUTFzX4"
 CONFIG_ERROR_CHATID="-1002420700748"
 
 # PixelDrain api keys to upload builds
-CONFIG_PDUP_API=""
+CONFIG_PDUP_API="8d1a1ebb-2654-407a-8e33-cb71d2a7ac15"
 
 # Turning off server after build or no
 POWEROFF=""
