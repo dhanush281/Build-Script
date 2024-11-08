@@ -3,7 +3,7 @@
 # Build Configuration. Required variables to compile the ROM.
 CONFIG_LUNCH="pixelage_sky-ap3a-user"
 CONFIG_OFFICIAL_FLAG=""
-CONFIG_TARGET="make bacon"
+CONFIG_TARGET="bacon"
 
 # Telegram Configuration
 CONFIG_CHATID="-1002224924128"
